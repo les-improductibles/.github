@@ -1,7 +1,9 @@
 <div align="center">
 
-  <img src="https://github.com/les-improductibles/.github/blob/main/images/les_improductibles_light" alt="Logo" width="250"/>
-  <img src="https://github.com/les-improductibles/.github/blob/main/images/les_improductibles_dark" alt="Logo" width="250"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/les_improductibles_light.svg">
+    <img src="images/les_improductibles_dark.svg" alt="Les Improductibles logo" width="250"/>
+  </picture>
 
   <h3 align="center">.github</h3>
 

@@ -1,0 +1,39 @@
+{
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${env:PYTHONPATH};${workspaceFolder}/python;"
+    },
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "${env:PYTHONPATH}:${workspaceFolder}/python"
+    },
+    "terminal.integrated.env.osx": {
+        "PYTHONPATH": "${env:PYTHONPATH}:${workspaceFolder}/python"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#6833fe",
+        "activityBar.background": "#6833fe",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#5f1900",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#6833fe",
+        "statusBar.background": "#4301fd",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#6833fe",
+        "statusBarItem.remoteBackground": "#3f1100",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#4301fd",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#4301fd99",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "activityBarTop.activeBackground": "#6833fe",
+        "activityBarTop.background": "#6833fe",
+        "activityBarTop.foreground": "#e7e7e7",
+        "activityBarTop.inactiveForeground": "#e7e7e799",
+        "commandCenter.foreground": "#e7e7e7",
+        "statusBar.debuggingBackground": "#4301fd",
+        "statusBar.debuggingForeground": "#e7e7e7",
+        "statusBar.inactiveBackground": "#4301fd"
+    },
+    "peacock.color": "4301fd"
+}
